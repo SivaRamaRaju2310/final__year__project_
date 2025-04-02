@@ -1,0 +1,13 @@
+Flask
+flask-pymongo
+pymongo
+gunicorn
+dnspython
+opencv-python
+pandas
+numpy
+fer
+tensorflow
+mtcnn
+Werkzeug
+moviepy
